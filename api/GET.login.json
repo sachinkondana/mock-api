@@ -1,0 +1,8 @@
+{
+  status: 1,
+  data : {
+    type: "dharji",
+    token: "ABCD"
+  },
+  message: "Success"
+}
