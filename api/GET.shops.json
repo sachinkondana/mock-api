@@ -1,0 +1,25 @@
+{
+  status: 1,
+  data: [{
+    id: 1001,
+    name: "Shop 1",
+    tailor: "Alex",
+    cost: "1000",
+    address: "Mangalore",
+    image: ""
+   }, {
+    id: 1002,
+    name: "Shop 2",
+    tailor: "John",
+    cost: "1000",
+    address: "Mangalore",
+    image: ""
+   }, {
+    id: 1003,
+    name: "Shop 3",
+    tailor: "Ram",
+    cost: "1000",
+    address: "Mangalore",
+    image: ""
+   }]
+  }
