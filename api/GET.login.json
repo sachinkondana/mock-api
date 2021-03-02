@@ -3,7 +3,8 @@
   data : {
     type: "dharji",
     token: "ABCD",
-    userId:2021
+    userId:2021,
+    name: "sachin"
   },
   message: "Success"
 }
