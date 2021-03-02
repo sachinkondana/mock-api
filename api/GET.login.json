@@ -2,7 +2,8 @@
   status: 1,
   data : {
     type: "dharji",
-    token: "ABCD"
+    token: "ABCD",
+    userId:2021
   },
   message: "Success"
 }
