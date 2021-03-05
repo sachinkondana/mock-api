@@ -1,11 +1,11 @@
 {
-  "status": 1,
-  "data" : {
-    "type": "dharji",
-    "token": "ABCD",
-    "userId":2021,
-    "name": "sachin"
+  status: 1,
+  data : {
+    type: "dharji",
+    token: "ABCD",
+    userId:2021,
+    name: "sachin"
   },
- "message" : "Success"
+ message : "Success"
 }
 
