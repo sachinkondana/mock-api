@@ -1,8 +1,8 @@
 {
-  status: 1,
-  data : {
-    type: "user",
-    token: "ABCD"
+  "status": 1,
+  "data" : {
+    "type": "user",
+    "token": "ABCD"
   },
-  message: "Success"
+  "message": "Success"
 }
