@@ -1,14 +1,14 @@
 {
-  status: 1,
-  data: [{
-    id: 1001,
-    orderedBy: "Mahesh",
-    time: "1614167438284",
-    status: "new"
+  "status": 1,
+  "data": [{
+    "id": 1001,
+    "orderedBy": "Mahesh",
+    "time": "1614167438284",
+    "status": "new"
   }, {
-    id: 1002,
-    orderedBy: "Mahesh",
-    time: "1614167438284",
-    status: "completed"
+    "id": 1002,
+    "orderedBy": "Mahesh",
+    "time": "1614167438284",
+    "status": "completed"
   }]
 }
